@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "18650_Plugger")(type "KiCad")(uri "${KIPRJMOD}/18650_Plugger.kicad_sym")(options "")(descr ""))
+)
